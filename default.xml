@@ -5,7 +5,7 @@
 
   <default revision="master-kernel-build-2021" remote="aosp" sync-j="4" />
 
-  <project path="sm6225" name="android_kernel_samsung_sm6225" remote="edward0181">
+  <project path="sm6225" name="android_kernel_samsung_a23" remote="edward0181">
     <linkfile dest="build.config" src="build.config.sm6225" />
   </project>
   
